@@ -40,7 +40,7 @@ print('-------------------------------------------------------------')
 print('내일 날씨 예보입니다')
 print('%s요일인 %s 의 아침 최저 기온은 %d도, 낮 최고 기온은 %d도로 예상됩니다'
       % (day, date, mortem, nottem))
-print('비 올 확률은 %d퍼센트고, 미세먼지는 %s수준으로 예상됩니다' % (rainper, micro))
+print('비 올 확률은 %d퍼센트이고, 미세먼지는 %s수준으로 예상됩니다' % (rainper, micro))
 print('일출 시간은 %s이고, 일몰시간은 %s입니다.' % (sunrise, sunset))
 print('파고는 남해 앞바다 %.1fm, 동해 앞바다 %.1fm, 서해 앞바다 %.1fm 높이로 일겠습니다.'
       % (sousea, eassea, wessea))
